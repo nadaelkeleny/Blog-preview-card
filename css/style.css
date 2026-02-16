@@ -18,6 +18,8 @@ body {
     border-radius: 10px;
     width: 336px;
     height: 201px;
+    background-color: #ccc;
+    display: block;
 }
 .Learning{
     width: 85px;
