@@ -1,0 +1,61 @@
+body {
+    font-family: "Inter", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5d04e;
+    height: 100vh;
+}
+.card {
+    background-color: #ffffff;
+    border-radius: 15px;
+    padding: 20px;
+    width: 340px;
+    height: 480px;
+    box-shadow: 8px 8px;
+}
+.photo1{
+    border-radius: 10px;
+}
+.Learning{
+    width: 85px;
+    background-color: #f5d04e;
+    text-align: center;
+    border-radius: 6px;
+    height: 6%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+}
+.title1{
+     font-weight: 600;
+     font-size: smaller;
+     margin-bottom: -10px;
+
+}
+.title2{
+    font-weight: bold;
+    font-size: x-large;
+    cursor: pointer;
+}
+.title2:hover{
+    color:#f5d04e;
+}
+.title3{
+    font-weight: 400;
+    color: #707070;
+    margin-top: -2px;
+}
+.photo2{
+    width: 11%;
+    margin-top: 10px;
+}
+.cardtext{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 14px;
+    font-weight: bolder;
+    margin-top: 26px;
+}
